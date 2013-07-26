@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+    <title>Amuzzin by amuzzin</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Amuzzin</h1>
+        <h2> [ Cut.Share.Live. ]</h2>
+
+        <section id="downloads">
+          <a href="https://github.com/amuzzin/amuzzin/zipball/master" class="btn">Download as .zip</a>
+          <a href="https://github.com/amuzzin/amuzzin/tarball/master" class="btn">Download as .tar.gz</a>
+          <a href="https://github.com/amuzzin/amuzzin" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h2>
+<a name="what-can-i-do-" class="anchor" href="#what-can-i-do-"><span class="octicon octicon-link"></span></a>What can I do ?</h2>
+
+<ul>
+<li>Upload a Song</li>
+<li>Cut your favourite portion from it</li>
+<li>Share it </li>
+</ul><h2>
+<a name="to-be-installed-" class="anchor" href="#to-be-installed-"><span class="octicon octicon-link"></span></a>To be installed </h2>
+
+<ul>
+<li>mp3splt # For splitting mp3s </li>
+<li>id3lib  # For reading metadatas from mp3s</li>
+</ul><h2>
+<a name="external-services" class="anchor" href="#external-services"><span class="octicon octicon-link"></span></a>External services</h2>
+
+<ul>
+<li>Thinking-sphinx ( Search server )</li>
+</ul><blockquote>
+<pre><code>  rake ts:in
+
+  rake ts:start ( For indexing / searching )
+
+  rake ts:stop 
+</code></pre>
+</blockquote>
+
+<ul>
+<li>memcached start ( For realtime information exchange )</li>
+</ul><blockquote>
+<pre><code>  memcached # starts the memcache daemon
+</code></pre>
+</blockquote>
+
+<ul>
+<li>Google URL shortening API</li>
+<li>Facebook posting and sharing - fbgraph gem</li>
+<li>Twitter sharing - twitter gem</li>
+<li>
+<strong>fpcalc</strong> for finding fingerprints of mp3</li>
+<li>
+<strong>acoustid</strong> for retreiving information from music database</li>
+</ul>
+      </section>
+    </div>
+
+    
+  </body>
+</html>
