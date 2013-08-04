@@ -67,8 +67,8 @@ application.js: application-422ec5230a1d6d92fe9750b563337159.js
 application/index.js: application-422ec5230a1d6d92fe9750b563337159.js
 mobile.js: mobile-1c4b0d531439777a0798b299193f5a4c.js
 mobile/index.js: mobile-1c4b0d531439777a0798b299193f5a4c.js
-application.css: application-0632fbcc4ba21ad69b78b84405e13d78.css
-application/index.css: application-0632fbcc4ba21ad69b78b84405e13d78.css
+application.css: application-2fe6d10c9a27cff81539538427d34fe0.css
+application/index.css: application-2fe6d10c9a27cff81539538427d34fe0.css
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
 images/ajax-loader/index.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
 images/ajax-loader.png: images/ajax-loader-a8a4bc1c4b502e156ed451507987eed7.png
