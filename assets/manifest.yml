@@ -31,8 +31,8 @@ player/favourite.png: player/favourite-93db446f717e62e4d80e35196c9cb049.png
 player/favourite/index.png: player/favourite-93db446f717e62e4d80e35196c9cb049.png
 player/fb_login_icon.png: player/fb_login_icon-f62be64c66b905ab6272eab89adba965.png
 player/fb_login_icon/index.png: player/fb_login_icon-f62be64c66b905ab6272eab89adba965.png
-player/google_signin.png: player/google_signin-69223cbd76f5a33459ba14a30923f2d2.png
-player/google_signin/index.png: player/google_signin-69223cbd76f5a33459ba14a30923f2d2.png
+player/google_signin.png: player/google_signin-101c4757d51abe8add8a9e5dc54fa5f8.png
+player/google_signin/index.png: player/google_signin-101c4757d51abe8add8a9e5dc54fa5f8.png
 player/mute.png: player/mute-35a15ed111bf334f3e615f889f98f08a.png
 player/mute/index.png: player/mute-35a15ed111bf334f3e615f889f98f08a.png
 player/next.png: player/next-ac031b72c6db7c54f3b407674ea29451.png
@@ -71,8 +71,8 @@ application.js: application-06d47ff321bf6bf30adbddf8c7f5f032.js
 application/index.js: application-06d47ff321bf6bf30adbddf8c7f5f032.js
 mobile.js: mobile-8c118e6c016873dba5095941daa6fc5b.js
 mobile/index.js: mobile-8c118e6c016873dba5095941daa6fc5b.js
-application.css: application-87870587bf77f60b4b228cfd54ce6a1f.css
-application/index.css: application-87870587bf77f60b4b228cfd54ce6a1f.css
+application.css: application-caafc040a46082f323711577ff37db15.css
+application/index.css: application-caafc040a46082f323711577ff37db15.css
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
 images/ajax-loader/index.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
 images/ajax-loader.png: images/ajax-loader-a8a4bc1c4b502e156ed451507987eed7.png
@@ -131,3 +131,4 @@ jquery-ui/ui-icons_cd0a0a_256x240.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a6221
 jquery-ui/ui-icons_cd0a0a_256x240/index.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a62216bf6f0cd0071149890763a5ff.png
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
+player-sab4d69fa47.png: player-sab4d69fa47-c9d72154711afa0d9863712b0fa8cb17.png
