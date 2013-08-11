@@ -15,8 +15,8 @@ metroIcons.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons/index.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons_light.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
 metroIcons_light/index.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
-player-sab4d69fa47.png: player-sab4d69fa47-c9d72154711afa0d9863712b0fa8cb17.png
-player-sab4d69fa47/index.png: player-sab4d69fa47-c9d72154711afa0d9863712b0fa8cb17.png
+player-s9149e2ecbd.png: player-s9149e2ecbd-d454612860d7660626ea07ef023d85fe.png
+player-s9149e2ecbd/index.png: player-s9149e2ecbd-d454612860d7660626ea07ef023d85fe.png
 player-sc815cc94b2.png: player-sc815cc94b2-154ea71658a8e7697fa0d4a9c2878cff.png
 player-sc815cc94b2/index.png: player-sc815cc94b2-154ea71658a8e7697fa0d4a9c2878cff.png
 player/add_to_playlist.png: player/add_to_playlist-efbb69dd79cebc14c921c3c57a2c5cdd.png
@@ -143,4 +143,3 @@ jquery-ui/ui-icons_cd0a0a_256x240.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a6221
 jquery-ui/ui-icons_cd0a0a_256x240/index.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a62216bf6f0cd0071149890763a5ff.png
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
-player-s9149e2ecbd.png: player-s9149e2ecbd-d454612860d7660626ea07ef023d85fe.png
