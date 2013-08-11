@@ -15,10 +15,10 @@ metroIcons.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons/index.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons_light.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
 metroIcons_light/index.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
-player-s7bfacf9c05.png: player-s7bfacf9c05-628b5d17af1132aab5d91ac58f6a7eda.png
-player-s7bfacf9c05/index.png: player-s7bfacf9c05-628b5d17af1132aab5d91ac58f6a7eda.png
 player-sab4d69fa47.png: player-sab4d69fa47-c9d72154711afa0d9863712b0fa8cb17.png
 player-sab4d69fa47/index.png: player-sab4d69fa47-c9d72154711afa0d9863712b0fa8cb17.png
+player-sc815cc94b2.png: player-sc815cc94b2-154ea71658a8e7697fa0d4a9c2878cff.png
+player-sc815cc94b2/index.png: player-sc815cc94b2-154ea71658a8e7697fa0d4a9c2878cff.png
 player/add_to_playlist.png: player/add_to_playlist-efbb69dd79cebc14c921c3c57a2c5cdd.png
 player/add_to_playlist/index.png: player/add_to_playlist-efbb69dd79cebc14c921c3c57a2c5cdd.png
 player/brand.png: player/brand-6d792f4c96eb14797992c7c10588bcc7.png
@@ -33,6 +33,8 @@ player/fb_login_icon.png: player/fb_login_icon-f62be64c66b905ab6272eab89adba965.
 player/fb_login_icon/index.png: player/fb_login_icon-f62be64c66b905ab6272eab89adba965.png
 player/google_signin.png: player/google_signin-101c4757d51abe8add8a9e5dc54fa5f8.png
 player/google_signin/index.png: player/google_signin-101c4757d51abe8add8a9e5dc54fa5f8.png
+player/info.png: player/info-76e358f836f505cbbf1356acd6e1ee3d.png
+player/info/index.png: player/info-76e358f836f505cbbf1356acd6e1ee3d.png
 player/mute.png: player/mute-35a15ed111bf334f3e615f889f98f08a.png
 player/mute/index.png: player/mute-35a15ed111bf334f3e615f889f98f08a.png
 player/next.png: player/next-ac031b72c6db7c54f3b407674ea29451.png
@@ -51,6 +53,8 @@ player/play_cut.png: player/play_cut-53c33e8050f9f0b7a583605a816168ec.png
 player/play_cut/index.png: player/play_cut-53c33e8050f9f0b7a583605a816168ec.png
 player/previous.png: player/previous-a37f940f302359cf0f450abac503fab0.png
 player/previous/index.png: player/previous-a37f940f302359cf0f450abac503fab0.png
+player/share.png: player/share-6c9c723a68b553bc47122e1bb67d5984.png
+player/share/index.png: player/share-6c9c723a68b553bc47122e1bb67d5984.png
 player/stop.png: player/stop-d443b18b49ead6af498b4f1d4b5e9fd4.png
 player/stop/index.png: player/stop-d443b18b49ead6af498b4f1d4b5e9fd4.png
 player/twitter_login.png: player/twitter_login-0c0734019e6434dc1908299e75cf7c3f.png
@@ -67,12 +71,12 @@ twitter_32.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_32/index.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64/index.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
-application.js: application-e42625b3c70332cdcc2fd31e95b9cf4e.js
-application/index.js: application-e42625b3c70332cdcc2fd31e95b9cf4e.js
+application.js: application-73c2aa76c7a8646c2c93e030449c5d8e.js
+application/index.js: application-73c2aa76c7a8646c2c93e030449c5d8e.js
 mobile.js: mobile-d3eaefa5cc60d31911b8c0a7be73f4ac.js
 mobile/index.js: mobile-d3eaefa5cc60d31911b8c0a7be73f4ac.js
-application.css: application-144f9308e811ffa5855e06927c4ead18.css
-application/index.css: application-144f9308e811ffa5855e06927c4ead18.css
+application.css: application-0c5d329b67f74a6139efd0fa7d6ff54c.css
+application/index.css: application-0c5d329b67f74a6139efd0fa7d6ff54c.css
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
 images/ajax-loader/index.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
 images/ajax-loader.png: images/ajax-loader-a8a4bc1c4b502e156ed451507987eed7.png
@@ -139,3 +143,4 @@ jquery-ui/ui-icons_cd0a0a_256x240.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a6221
 jquery-ui/ui-icons_cd0a0a_256x240/index.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a62216bf6f0cd0071149890763a5ff.png
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
+player-s9149e2ecbd.png: player-s9149e2ecbd-d454612860d7660626ea07ef023d85fe.png
