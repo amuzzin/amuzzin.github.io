@@ -77,8 +77,8 @@ application.js: application-8ad8e221685b9a8d0c033f77f82977d2.js
 application/index.js: application-8ad8e221685b9a8d0c033f77f82977d2.js
 mobile.js: mobile-32fc305b941c0412bb62a46dbf59c870.js
 mobile/index.js: mobile-32fc305b941c0412bb62a46dbf59c870.js
-application.css: application-efd044e0b0dcc21c06c59e25808a2d72.css
-application/index.css: application-efd044e0b0dcc21c06c59e25808a2d72.css
+application.css: application-7edd17e3c1315e311e1771c7f7441337.css
+application/index.css: application-7edd17e3c1315e311e1771c7f7441337.css
 images/Music-icon.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/Music-icon/index.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
