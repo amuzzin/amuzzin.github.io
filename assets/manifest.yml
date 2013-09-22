@@ -99,8 +99,8 @@ mobile.js: mobile-6b5c7efe9f9a7a2627c0d3cec45687fa.js
 mobile/index.js: mobile-6b5c7efe9f9a7a2627c0d3cec45687fa.js
 player-graphics.gif: player-graphics-87bc2eca3137ee42171127c9c1b6e29f.gif
 player-graphics/index.gif: player-graphics-87bc2eca3137ee42171127c9c1b6e29f.gif
-application.css: application-126434ffb87706c033e00ef7a1298786.css
-application/index.css: application-126434ffb87706c033e00ef7a1298786.css
+application.css: application-ed7a9e84b585ef1b5df0e0f9a7df222f.css
+application/index.css: application-ed7a9e84b585ef1b5df0e0f9a7df222f.css
 images/Music-icon.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/Music-icon/index.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
