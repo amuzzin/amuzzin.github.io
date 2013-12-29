@@ -89,8 +89,8 @@ application.js: application-8b6276062695b8533805da3336e98f52.js
 application/index.js: application-8b6276062695b8533805da3336e98f52.js
 mobile.js: mobile-4611f4ded4bd768fed7ac0a8eba58e4b.js
 mobile/index.js: mobile-4611f4ded4bd768fed7ac0a8eba58e4b.js
-application.css: application-95a620bbd139910e77c173468a65da42.css
-application/index.css: application-95a620bbd139910e77c173468a65da42.css
+application.css: application-a5fc506d00febc997d08501e2bc306f4.css
+application/index.css: application-a5fc506d00febc997d08501e2bc306f4.css
 images/Music-icon.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/Music-icon/index.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
