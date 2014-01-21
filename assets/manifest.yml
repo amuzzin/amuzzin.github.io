@@ -85,8 +85,8 @@ twitter_32.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_32/index.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64/index.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
-application.js: application-c18df74c74c51e14404827f4218c9f77.js
-application/index.js: application-c18df74c74c51e14404827f4218c9f77.js
+application.js: application-c5b2085e5277f24aad6c0b008470240c.js
+application/index.js: application-c5b2085e5277f24aad6c0b008470240c.js
 mobile.js: mobile-fd6663c36914c5f4d5e6e126261dd3b5.js
 mobile/index.js: mobile-fd6663c36914c5f4d5e6e126261dd3b5.js
 application.css: application-fbbc84041d001d61eb19820404393bdb.css
