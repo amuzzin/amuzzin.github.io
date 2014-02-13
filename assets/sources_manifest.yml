@@ -8,8 +8,7 @@ imgres.html: b903991db93ecbdb66953752ac452766
 loading.gif: b09dc974590d1edfc65e8e12381855f7
 metroIcons.jpg: 29b0de28e43be09606cb27f434e9603f
 metroIcons_light.jpg: 0d1be0ccdb39eae03061608907fab977
-player-sc815cc94b2.png: 154ea71658a8e7697fa0d4a9c2878cff
-player-sd3287cca90.png: 3ec31a37e578a073592dde5282a48eb5
+player-s9bce53ffd0.png: 62d90a185080a6300b4c512d4f6a0516
 player-sf8db3d52dd.png: 9b5a0de8c7b9d729c173bf0c9df0e924
 player/Music.png: c3aa6b8cc53c74371e5fcd7125e2d955
 player/add_to_playlist.png: 1610cd12b94e5492f1175086581eaabc
@@ -43,7 +42,7 @@ star-off.png: dfebca9e767f3d82d64f73a650882a74
 star-on.png: 5f1bbca2093b22e1d0a6f907600c106b
 twitter_32.png: 7bc6da3135617684dcba22ee976c82bd
 twitter_64.png: 7bc6da3135617684dcba22ee976c82bd
-application.js: 62ab912bf1481427e6bcfcaaf57ca752
+application.js: c4fe1e990b48aab66c2208dbba04a54d
 mobile.js: 1c445340c913a88ee3ce34232c27bdc5
 application.css: d11535ad6e43a8bb46d6b35488248a9f
 images/Music-icon.png: 487aa9630a3465bd7bec5c0b9ab86bf3
