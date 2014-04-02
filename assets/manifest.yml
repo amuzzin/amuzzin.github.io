@@ -17,10 +17,10 @@ metroIcons.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons/index.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons_light.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
 metroIcons_light/index.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
+player-s7572850769.png: player-s7572850769-ce0d6522193cfc47a765119c1422a71d.png
+player-s7572850769/index.png: player-s7572850769-ce0d6522193cfc47a765119c1422a71d.png
 player-s9bce53ffd0.png: player-s9bce53ffd0-62d90a185080a6300b4c512d4f6a0516.png
 player-s9bce53ffd0/index.png: player-s9bce53ffd0-62d90a185080a6300b4c512d4f6a0516.png
-player-sf8db3d52dd.png: player-sf8db3d52dd-9b5a0de8c7b9d729c173bf0c9df0e924.png
-player-sf8db3d52dd/index.png: player-sf8db3d52dd-9b5a0de8c7b9d729c173bf0c9df0e924.png
 player/Music.png: player/Music-c3aa6b8cc53c74371e5fcd7125e2d955.png
 player/Music/index.png: player/Music-c3aa6b8cc53c74371e5fcd7125e2d955.png
 player/add_to_playlist.png: player/add_to_playlist-1610cd12b94e5492f1175086581eaabc.png
@@ -35,6 +35,8 @@ player/favorite.png: player/favorite-582eecd96e8cbd77a72024829db2bde7.png
 player/favorite/index.png: player/favorite-582eecd96e8cbd77a72024829db2bde7.png
 player/favourite.png: player/favourite-fd3d57adac6d1249ea69835ff2cd1520.png
 player/favourite/index.png: player/favourite-fd3d57adac6d1249ea69835ff2cd1520.png
+player/group_listen.png: player/group_listen-29b807d00d06da3a148487393565a40d.png
+player/group_listen/index.png: player/group_listen-29b807d00d06da3a148487393565a40d.png
 player/info.png: player/info-461b3c261f091e550cbd048be0302305.png
 player/info/index.png: player/info-461b3c261f091e550cbd048be0302305.png
 player/mute.png: player/mute-0d92fc1a4e253090da5c321fa02322b7.png
@@ -85,12 +87,12 @@ twitter_32.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_32/index.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64/index.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
-application.js: application-8593e038c4c50a9a2e35f2888024f76f.js
-application/index.js: application-8593e038c4c50a9a2e35f2888024f76f.js
+application.js: application-b0869a9248daf3489ead248a54bafe6c.js
+application/index.js: application-b0869a9248daf3489ead248a54bafe6c.js
 mobile.js: mobile-97686afa8912ab823c3cce7a453d7fd5.js
 mobile/index.js: mobile-97686afa8912ab823c3cce7a453d7fd5.js
-application.css: application-ec41d4f86d453969d39828a180c0e915.css
-application/index.css: application-ec41d4f86d453969d39828a180c0e915.css
+application.css: application-55757d3ba14db911b6f2706d5d389a3c.css
+application/index.css: application-55757d3ba14db911b6f2706d5d389a3c.css
 images/Music-icon.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/Music-icon/index.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
@@ -167,3 +169,4 @@ jquery.js: jquery-0b959995ad06001b36c9459c06b86f90.js
 jquery/index.js: jquery-0b959995ad06001b36c9459c06b86f90.js
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
+player-s95a1e6c155.png: player-s95a1e6c155-5dc69ac91ddd9e20ecf076ffe892a5af.png

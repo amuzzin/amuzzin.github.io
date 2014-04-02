@@ -8,8 +8,8 @@ imgres.html: b903991db93ecbdb66953752ac452766
 loading.gif: b09dc974590d1edfc65e8e12381855f7
 metroIcons.jpg: 29b0de28e43be09606cb27f434e9603f
 metroIcons_light.jpg: 0d1be0ccdb39eae03061608907fab977
+player-s7572850769.png: ce0d6522193cfc47a765119c1422a71d
 player-s9bce53ffd0.png: 62d90a185080a6300b4c512d4f6a0516
-player-sf8db3d52dd.png: 9b5a0de8c7b9d729c173bf0c9df0e924
 player/Music.png: c3aa6b8cc53c74371e5fcd7125e2d955
 player/add_to_playlist.png: 1610cd12b94e5492f1175086581eaabc
 player/brand.png: 6d792f4c96eb14797992c7c10588bcc7
@@ -17,6 +17,7 @@ player/curved-left.png: 319cc448673c0ae55c1470f7847a703b
 player/curved-right.png: ffef460646999ab30a0bf6d1ad83b9d8
 player/favorite.png: 582eecd96e8cbd77a72024829db2bde7
 player/favourite.png: fd3d57adac6d1249ea69835ff2cd1520
+player/group_listen.png: 29b807d00d06da3a148487393565a40d
 player/info.png: 461b3c261f091e550cbd048be0302305
 player/mute.png: 0d92fc1a4e253090da5c321fa02322b7
 player/next.png: fbbfb516f8fb042c718c50d231760bd9
@@ -42,9 +43,9 @@ star-off.png: dfebca9e767f3d82d64f73a650882a74
 star-on.png: 5f1bbca2093b22e1d0a6f907600c106b
 twitter_32.png: 7bc6da3135617684dcba22ee976c82bd
 twitter_64.png: 7bc6da3135617684dcba22ee976c82bd
-application.js: fb402c7afad27324cb5eefd9836d509c
+application.js: 776760859513212703a9f269f8db7b5c
 mobile.js: 1c445340c913a88ee3ce34232c27bdc5
-application.css: 85a0410941924a6870bec2fb4fdbf440
+application.css: 9737cf3344ea518385526c52ed65c294
 images/Music-icon.png: 487aa9630a3465bd7bec5c0b9ab86bf3
 images/ajax-loader.gif: cad1a448fe000d9643c57860e5493861
 images/ajax-loader.png: a8a4bc1c4b502e156ed451507987eed7
