@@ -81,8 +81,10 @@ twitter_64.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64/index.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
 application.js: application-ca5e71207c6497ce6a83514348a5932c.js
 application/index.js: application-ca5e71207c6497ce6a83514348a5932c.js
-mobile.js: mobile-7b8832abb942e43fdff8431617e5b488.js
-mobile/index.js: mobile-7b8832abb942e43fdff8431617e5b488.js
+essentials.js: essentials-711573677a7dfd50f196b662fd1c06b0.js
+essentials/index.js: essentials-711573677a7dfd50f196b662fd1c06b0.js
+mobile.js: mobile-db8204793d737531b444d14c592dc491.js
+mobile/index.js: mobile-db8204793d737531b444d14c592dc491.js
 application.css: application-39951df334581cc6f52715f4e094fd78.css
 application/index.css: application-39951df334581cc6f52715f4e094fd78.css
 images/Music-icon.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
@@ -157,7 +159,7 @@ jquery-ui/ui-icons_888888_256x240.png: jquery-ui/ui-icons_888888_256x240-8040cfc
 jquery-ui/ui-icons_888888_256x240/index.png: jquery-ui/ui-icons_888888_256x240-8040cfcc88792375b7788feb59189eef.png
 jquery-ui/ui-icons_cd0a0a_256x240.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a62216bf6f0cd0071149890763a5ff.png
 jquery-ui/ui-icons_cd0a0a_256x240/index.png: jquery-ui/ui-icons_cd0a0a_256x240-d4a62216bf6f0cd0071149890763a5ff.png
-jquery.js: jquery-b74206ee5a7484c36f49e78ce9cf7ccd.js
-jquery/index.js: jquery-b74206ee5a7484c36f49e78ce9cf7ccd.js
+jquery.js: jquery-5e0aadf6c453d85b10145a05c728e856.js
+jquery/index.js: jquery-5e0aadf6c453d85b10145a05c728e856.js
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
