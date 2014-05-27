@@ -17,8 +17,10 @@ metroIcons.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons/index.jpg: metroIcons-29b0de28e43be09606cb27f434e9603f.jpg
 metroIcons_light.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
 metroIcons_light/index.jpg: metroIcons_light-0d1be0ccdb39eae03061608907fab977.jpg
-player-s7572850769.png: player-s7572850769-ce0d6522193cfc47a765119c1422a71d.png
-player-s7572850769/index.png: player-s7572850769-ce0d6522193cfc47a765119c1422a71d.png
+player-s184adde6f9.png: player-s184adde6f9-eb06796a65032fdbae3f3ccb6afee654.png
+player-s184adde6f9/index.png: player-s184adde6f9-eb06796a65032fdbae3f3ccb6afee654.png
+player-s8b62d64f39.png: player-s8b62d64f39-59408ae108de4421a343f55cbe748672.png
+player-s8b62d64f39/index.png: player-s8b62d64f39-59408ae108de4421a343f55cbe748672.png
 player/Music.png: player/Music-a985b046ecd48b07db98e0905a255c5d.png
 player/Music/index.png: player/Music-a985b046ecd48b07db98e0905a255c5d.png
 player/add_to_playlist.png: player/add_to_playlist-1610cd12b94e5492f1175086581eaabc.png
@@ -79,14 +81,14 @@ twitter_32.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_32/index.png: twitter_32-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
 twitter_64/index.png: twitter_64-7bc6da3135617684dcba22ee976c82bd.png
-application.js: application-96e0eebfc1e5b711fb754544a523c111.js
-application/index.js: application-96e0eebfc1e5b711fb754544a523c111.js
+application.js: application-f6d37bedf1cf47f9fbfdede919111f59.js
+application/index.js: application-f6d37bedf1cf47f9fbfdede919111f59.js
 essentials.js: essentials-9671eb3afed5cbb78308cbcf8dfe37f4.js
 essentials/index.js: essentials-9671eb3afed5cbb78308cbcf8dfe37f4.js
 mobile.js: mobile-7a79dd80e97e0c75fd641b4140c6438c.js
 mobile/index.js: mobile-7a79dd80e97e0c75fd641b4140c6438c.js
-application.css: application-d136af70b4e555d194075970adda4c59.css
-application/index.css: application-d136af70b4e555d194075970adda4c59.css
+application.css: application-45bb25b0f1a6caada5e50456c9bfa70d.css
+application/index.css: application-45bb25b0f1a6caada5e50456c9bfa70d.css
 images/Music-icon.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/Music-icon/index.png: images/Music-icon-487aa9630a3465bd7bec5c0b9ab86bf3.png
 images/ajax-loader.gif: images/ajax-loader-cad1a448fe000d9643c57860e5493861.gif
@@ -163,4 +165,3 @@ jquery.js: jquery-ef334648ae1169d2b99e8ed12b63dc3e.js
 jquery/index.js: jquery-ef334648ae1169d2b99e8ed12b63dc3e.js
 jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
 jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
-player-s184adde6f9.png: player-s184adde6f9-eb06796a65032fdbae3f3ccb6afee654.png
